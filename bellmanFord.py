@@ -1,4 +1,4 @@
-def bellmenFord(graph, source):
+def bellmanFord(graph, source):
     nodes = graph.get_buildings()
     edges = graph.get_edges()
 
